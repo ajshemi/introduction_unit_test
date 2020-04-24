@@ -1,3 +1,6 @@
-first install jest npm install jest -D
-second create a file with a .test extension touch index.test.js 
-insert the following code snippet into the index.test.js file
+
+clone this githup repository https://github.com/ajshemi/introduction_unit_test.git
+
+run npm install ( this step will install jest and will create a node_modules folder )
+
+enter "node ./node_modules/.bin/jest" to run test
